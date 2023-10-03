@@ -1,4 +1,4 @@
-setwd("~/Library/CloudStorage/Dropbox/Lipidomics_McReynolds/Kidney_Liver_Data")
+
 
 #load packages
 library(lipidr)   #if you are on mac, you need to download gfortran before installing this package - https://mac.r-project.org/tools/
